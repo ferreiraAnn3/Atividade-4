@@ -14,8 +14,11 @@
 
 ### FUNCIONALIDADES
 *Fazer reservas: Permite ao usuário reservar o horário desejado.
+
 *Consultar reservas: Exibe as atuais reservas.
+
 *Cancelar reservas: Permite que o usuário cancele uma reserva já existente.
+
 *Menu interativo: Oferece um menu com todas as funcionalidades do site.
 
 ### CRONOGRAMA DE DESENVOLVIMENTO
